@@ -6,9 +6,9 @@ const projects = [
    {
     title: "E-Commerce Website",
     description:
-        "This project is a full-stack e-commerce application featuring a React and Vite frontend for an interactive user interface, connected to a Node.js and MySql backend for efficient data management of products, orders, Tracking, and shopping carts.",
+        "This full-stack e-commerce application features a dynamic React/Vite frontend for a seamless user experience, integrated with a Node.js/MySQL backend for inventory and order management, and is deployed on AWS Elastic Beanstalk to ensure highly scalable, automated cloud deployment.",
     image: "/projects/project1.png",
-    tags: ["React", "NodeJS" , "MySql", "AWS", "Vitest"],
+    tags: ["React", "NodeJS" , "MySQL", "AWS", "Vitest"],
     link: "http://ecommerce-backend-env.eba-ubpj3ay6.eu-north-1.elasticbeanstalk.com/",
     github: "https://github.com/ChathuraSamarakoon/E-commerce-project",
   },
