@@ -4,13 +4,13 @@ import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 
 const projects = [
    {
-    title: "Fintech Dashboard",
+    title: "E-Commerce Website",
     description:
-        "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+        "This project is a full-stack e-commerce application featuring a React and Vite frontend for an interactive user interface, connected to a Node.js and MySql backend for efficient data management of products, orders, Tracking, and shopping carts.",
     image: "/projects/project1.png",
-    tags: ["React", "Typescript", "NodeJS"],
-    link: "#",
-    github: "#",
+    tags: ["React", "NodeJS" , "MySql", "AWS", "Vitest"],
+    link: "http://ecommerce-backend-env.eba-ubpj3ay6.eu-north-1.elasticbeanstalk.com/",
+    github: "https://github.com/ChathuraSamarakoon/E-commerce-project",
   },
   {
     title: "E-Commerce Platform",
