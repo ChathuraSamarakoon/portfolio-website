@@ -13,31 +13,22 @@ const projects = [
     github: "https://github.com/ChathuraSamarakoon/E-commerce-project",
   },
   {
-    title: "E-Commerce Platform",
+    title: "FUDU - Food ordering app",
     description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+      "Developed a full-stack food ordering platform using React.js and Spring Boot. Implemented secure JWT authentication, RESTful APIs, and dynamic dashboards. Deployed the complete scalable infrastructure on AWS and implemented database on Aiven cloud platform.",
     image: "/projects/project2.png",
-    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
-    link: "#",
-    github: "#",
+    tags: ["React", "Spring Boot", "MySQL", "Tailwind", "AWS", "Aiven"],
+    link: "http://fudo-frontend-app-2026.s3-website-ap-southeast-1.amazonaws.com",
+    github: "https://github.com/ChathuraSamarakoon/fudo-backend",
   },
   {
-    title: "AI Writing Assistant",
+    title: "DevSync- Real Time chat app",
     description:
-      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
+      "DevSync is a comprehensive MERN-stack project management and team communication platform. It features workspace organization, task tracking, and real-time messaging through Channels and Direct Messages powered by Socket.io. The application is successfully deployed on AWS, with the React/Vite frontend hosted on S3 and the Node.js backend on EC2.",
     image: "/projects/project3.png",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
-    link: "#",
-    github: "#",
-  },
-  {
-    title: "Project Management Tool",
-    description:
-      "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
-    image: "/projects/project4.png",
-    tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
-    link: "#",
-    github: "#",
+    tags: ["MongoDB Atlas", "Express", "React", "Node.js","Tailwind", "Socket.io", "AWS","bcrypt", "helmet" ],
+    link: "http://devsync-frontend-chathura.s3-website.eu-north-1.amazonaws.com",
+    github: "https://github.com/ChathuraSamarakoon/DevSync-backend",
   },
 ]
 
