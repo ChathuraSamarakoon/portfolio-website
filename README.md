@@ -8,7 +8,7 @@ A personal portfolio website built with **React** and **Tailwind CSS**, showcasi
 
 ## 🌐 Live Demo
 
-**[View Portfolio →]([https://your-portfolio-url.com](https://portfolio-website-six-rho-69.vercel.app/))**
+**[View Portfolio →]((https://portfolio-website-six-rho-69.vercel.app/))**
 
 ---
 
